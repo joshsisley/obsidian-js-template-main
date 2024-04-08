@@ -15,7 +15,7 @@ action QuickAdd: 🕺 New Person
 ```dataviewjs
 let i = 0;
 let letter = "a";
-let query = dv.pages('"300 ⌯ Journal/391 ⌯ 🕺 People"').where(p => p["relationship"]!= "none");
+let query = dv.pages('"300 ⌯ Command Center/391 ⌯ 🕺 People"').where(p => p["relationship"]!= "none");
 let name = "";
 let lastName = "";
 let people = [];

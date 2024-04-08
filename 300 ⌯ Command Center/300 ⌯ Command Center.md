@@ -1,11 +1,13 @@
 ---
-alias: ['Journal', 'Journal Dashboard']
+aliases:
+  - Command Center
+  - Command Center Dashboard
 banner_icon: 📔
 banner: "https://images.unsplash.com/photo-1488722796624-0aa6f1bb6399?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80"
 banner_y: 0.5
 ---
 
-# 300 ⌯ Journal
+# 300 ⌯ Command Center
 
 ```button
 name 🌱 Open Daily Note

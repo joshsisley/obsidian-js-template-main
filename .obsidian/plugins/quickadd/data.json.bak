@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "baefe532-1701-4c7c-85e9-ae65934b0efc",
-      "name": "Add new note and Add 🔗in the current note (Journal & PKM)",
+      "name": "Add new note and Add 🔗in the current note (Command Center & PKM)",
       "type": "Multi",
       "command": false,
       "choices": [
@@ -131,7 +131,7 @@
           "folder": {
             "enabled": true,
             "folders": [
-              "300 ⌯ Journal/390_🧺Journal_Elements/391 ⌯ 🕺 People"
+              "300 ⌯ Command Center/390_🧺Journal_Elements/391 ⌯ 🕺 People"
             ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false

@@ -44,7 +44,7 @@ let projects = [];
 let number = 3;
 let n = 0;
 
-let query = dv.pages('"300 ⌯ Journal/392 ⌯ 📨 Projects"')
+let query = dv.pages('"300 ⌯ Command Center/392 ⌯ 📨 Projects"')
 	.where(
 		p => p["projectClass"]== type
 		&& p["status"]== "🟢 Active"
@@ -71,7 +71,7 @@ let projects = [];
 let number = 3;
 let n = 0;
 
-let query = dv.pages('"300 ⌯ Journal/392 ⌯ 📨 Projects"')
+let query = dv.pages('"300 ⌯ Command Center/392 ⌯ 📨 Projects"')
 	.where(
 		p => p["projectClass"]== type
 		&& p["status"]== "🟢 Active"

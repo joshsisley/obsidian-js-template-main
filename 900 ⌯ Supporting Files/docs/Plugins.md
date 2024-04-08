@@ -118,7 +118,7 @@ fileClass: doc
   - Add description, summary and more info to folders with folder notes.
   - Provide core features and API for folder notes
 
-> This is how we have notes for folders like [[300 ⌯ Journal|Journal]], [[510 ⌯ 📚 Literature Notes|📚 Literature Notes]] and [[340 ⌯ 🔖 Meetings|🔖 Meetings]]
+> This is how we have notes for folders like [[300 ⌯ Command Center|Journal]], [[510 ⌯ 📚 Literature Notes|📚 Literature Notes]] and [[340 ⌯ 🔖 Meetings|🔖 Meetings]]
 
 ---
 [Completr](https://github.com/tth05)

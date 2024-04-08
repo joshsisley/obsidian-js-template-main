@@ -43,6 +43,18 @@ body.theme-dark.is-mobile {
     --callout-padding: 24px 32px;
 }
 
+body,
+.theme-light,
+body.theme-light.is-mobile {
+    --background-primary: #ffffff;
+    --h2-color: #2e80f2;
+    --h3-color: #2e80f2;
+    --h4-color: #e5b567;
+    --h5-color: #e83e3e;
+    --h6-color: #2e80f2;
+    --strong-color: #ff82b2;
+}
+
 body .list-view-ul li {
     --list-spacing: 0em;
 }
@@ -195,7 +207,7 @@ small strong {
 }
 
 .theme-dark button.button-default {
-    background: #a51864;
+    background: #2e80f2;
     border: none;
     padding: 8px 24px 10px 20px;
     height: auto;
@@ -208,7 +220,7 @@ small strong {
 }
 
 .theme-dark button.button-default:hover {
-    background: #cd3687;
+    background: #2e80f2;
     z-index: 100;
     box-shadow: 0 1px 1px var(--button-box-shadow, rgba(0, 0, 0, 0.5));
     transform: translate3d(1px, 1px, 0px);
@@ -219,7 +231,7 @@ button.button-inline {
     padding: 4px 8px;
     font-family: 'Lato', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 0.65em;
-    background-color: #762091;
+    background-color: #876be0;
     letter-spacing: 0.75px;
 }
 
@@ -228,7 +240,7 @@ button.button-inline:hover {
     box-shadow: 0 1px 1px var(--button-box-shadow, rgba(0, 0, 0, 0.5));
     transform: translate3d(1px, 1px, 0px);
     cursor: pointer;
-    background-color: #8a2da8;
+    background-color: #876be0;
 }
 
 .markdown-rendered hr {

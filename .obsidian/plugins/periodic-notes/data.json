@@ -5,7 +5,7 @@
   "daily": {
     "format": "YYYY/MM-MMMM/YYYY-MM-DD",
     "template": "900 ⌯ Supporting Files/910 ⌯ Templates/Periodic_Note/New-Day.md",
-    "folder": "300 ⌯ Journal/310 ⌯ 🌱 Daily",
+    "folder": "300 ⌯ Command Center/310 ⌯ 🌱 Daily",
     "enabled": true
   },
   "weekly": {

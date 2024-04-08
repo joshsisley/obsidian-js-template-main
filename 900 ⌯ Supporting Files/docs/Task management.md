@@ -9,4 +9,4 @@ fileClass: doc
 	* using **⌥T** to use the [[QuickAdd]] "Add to task list" action
 	* using `~qt` if you are using Espanso with the matching configurations provided in [[espanso match file]]
 * All tasks created are manageable in [[393 ⌯ ✅ Tasks]]
-* Relevant tasks will also appear in your Daily Note, [[300 ⌯ Journal|Journal]], and [[000 ⌯ Dashboard]]
+* Relevant tasks will also appear in your Daily Note, [[300 ⌯ Command Center|Journal]], and [[000 ⌯ Dashboard]]

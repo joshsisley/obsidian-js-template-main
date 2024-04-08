@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "300 ⌯ Journal/392 ⌯ 📨 Projects",
+      "folder": "300 ⌯ Command Center/392 ⌯ 📨 Projects",
       "template": "900 ⌯ Supporting Files/910 ⌯ Templates/New-Project.md"
     },
     {
@@ -35,11 +35,11 @@
       "template": "900 ⌯ Supporting Files/910 ⌯ Templates/New-Topic.md"
     },
     {
-      "folder": "300 ⌯ Journal/340 ⌯ 🔖 Meetings",
+      "folder": "300 ⌯ Command Center/340 ⌯ 🔖 Meetings",
       "template": "900 ⌯ Supporting Files/910 ⌯ Templates/New-Meeting.md"
     },
     {
-      "folder": "300 ⌯ Journal/391 ⌯ 🕺 People",
+      "folder": "300 ⌯ Command Center/391 ⌯ 🕺 People",
       "template": "900 ⌯ Supporting Files/910 ⌯ Templates/New-Person.md"
     },
     {
@@ -47,7 +47,7 @@
       "template": "900 ⌯ Supporting Files/910 ⌯ Templates/New-Resource.md"
     },
     {
-      "folder": "300 ⌯ Journal/330 ⌯ ✏️ Notes",
+      "folder": "300 ⌯ Command Center/330 ⌯ ✏️ Notes",
       "template": "900 ⌯ Supporting Files/910 ⌯ Templates/New-Note.md"
     },
     {
